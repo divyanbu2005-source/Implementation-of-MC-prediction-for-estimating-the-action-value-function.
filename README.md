@@ -70,7 +70,6 @@ Monte Carlo methods estimate action values by averaging returns obtained after v
 
 ```
 
----
 
 ## Result
 
